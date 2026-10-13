@@ -1,0 +1,15 @@
+name = "competitor-radar-gateway"
+main = "worker/src/index.js"
+compatibility_date = "2026-05-01"
+workers_dev = true
+
+routes = [
+  { pattern = "competitor.builditwithai.xyz", custom_domain = true }
+]
+
+[vars]
+POSTHOG_HOST = "https://us.i.posthog.com"
+POSTHOG_API_KEY = "phc_Aik6H3pf5P9dPBrWLjd6N3wzsVAD6tJnmmEhFwW8Pzsi"
+GITHUB_REPO = "https://github.com/surendranb/competitor-radar"
+DOCS_URL = "https://competitor.builditwithai.xyz"
+ORIGIN_HOST = "origin.builditwithai.xyz"
