@@ -33,7 +33,7 @@ CHOSEN_CMD="uvx"
 CHOSEN_ARGS='["competitor-radar"]'
 if [ "$HAS_UVX" = false ] && [ "$HAS_NPX" = true ]; then
   CHOSEN_CMD="npx"
-  CHOSEN_ARGS='["-y", "@surendranb/competitor-radar"]'
+  CHOSEN_ARGS='["-y", "competitor-radar"]'
 fi
 
 CONFIG_TARGETS=()

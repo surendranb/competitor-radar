@@ -1,5 +1,5 @@
 {
-  "name": "@surendranb/competitor-radar",
+  "name": "competitor-radar",
   "version": "0.1.0",
   "description": "Local-First Competitive Intelligence Radar: Web Deltas, Pricing Shifts, Sitemap Traversal & ATS Hiring Signals",
   "main": "index.js",

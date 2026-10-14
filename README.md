@@ -93,7 +93,7 @@ Add to `~/.cursor/mcp.json` or project `.cursor/mcp.json`:
 claude mcp add competitor-radar -- uvx competitor-radar
 
 # Node / npx alternative
-claude mcp add competitor-radar -- npx -y @surendranb/competitor-radar
+claude mcp add competitor-radar -- npx -y competitor-radar
 ```
 
 ---
