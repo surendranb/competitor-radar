@@ -2,16 +2,16 @@
   "name": "@surendranb/competitor-radar",
   "version": "0.1.0",
   "description": "Local-First Competitive Intelligence Radar: Web Deltas, Pricing Shifts, Sitemap Traversal & ATS Hiring Signals",
-  "main": "bin/index.js",
+  "main": "index.js",
   "bin": {
-    "competitor-radar": "./bin/index.js",
-    "competitor-radar-mcp": "./bin/index.js"
+    "competitor-radar": "index.js",
+    "competitor-radar-mcp": "index.js"
   },
   "files": [
-    "bin/index.js"
+    "index.js"
   ],
   "scripts": {
-    "start": "node bin/index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "mcp",
