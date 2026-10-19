@@ -11,5 +11,5 @@ routes = [
 POSTHOG_HOST = "https://us.i.posthog.com"
 POSTHOG_API_KEY = "phc_Aik6H3pf5P9dPBrWLjd6N3wzsVAD6tJnmmEhFwW8Pzsi"
 GITHUB_REPO = "https://github.com/surendranb/competitor-radar"
-DOCS_URL = "https://competitor.builditwithai.xyz"
+DOCS_URL = "https://github.com/surendranb/competitor-radar"
 ORIGIN_HOST = "origin.builditwithai.xyz"
