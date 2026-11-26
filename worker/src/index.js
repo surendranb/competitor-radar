@@ -14,7 +14,7 @@ const PACKAGE_NAME = "competitor-radar";
 const CLI_CMD = "competitor-radar";
 const DISPLAY_NAME = "Competitor Radar";
 const DESCRIPTION = "Local-First Competitive Intelligence Engine: Web Deltas, Pricing Shifts, Sitemap Traversal & ATS Hiring Radar";
-const DOCS_URL = "https://competitor.builditwithai.xyz";
+const DOCS_URL = "https://github.com/surendranb/competitor-radar";
 const RUNTIME_PREF = "uvx";
 const DEFAULT_ENV = "{}";
 
